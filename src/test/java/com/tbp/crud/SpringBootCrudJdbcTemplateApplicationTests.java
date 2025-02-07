@@ -10,4 +10,6 @@ class SpringBootCrudJdbcTemplateApplicationTests {
 	void contextLoads() {
 	}
 
+HI
+
 }
